@@ -333,67 +333,6 @@
           }
         },
         {
-          "ID": "723",
-          "typeID": "Arrow",
-          "zOrder": "17",
-          "w": "118",
-          "h": "26",
-          "measuredW": "150",
-          "measuredH": "100",
-          "x": "1065",
-          "y": "1871",
-          "properties": {
-            "color": "2848996",
-            "curvature": "0",
-            "leftArrow": "false",
-            "p0": {
-              "x": 117,
-              "y": 25
-            },
-            "p1": {
-              "x": 0.47388515577275486,
-              "y": 0.002290775809407195
-            },
-            "p2": {
-              "x": 0,
-              "y": 0
-            },
-            "rightArrow": "false",
-            "stroke": "dotted"
-          }
-        },
-        {
-          "ID": "724",
-          "typeID": "Arrow",
-          "zOrder": "18",
-          "w": "124",
-          "h": "21",
-          "measuredW": "150",
-          "measuredH": "100",
-          "x": "1059",
-          "y": "1847",
-          "properties": {
-            "color": "2848996",
-            "curvature": "0",
-            "direction": "bottom",
-            "leftArrow": "false",
-            "p0": {
-              "x": 123,
-              "y": 0
-            },
-            "p1": {
-              "x": 0.473885155772755,
-              "y": 0.00229077580940721
-            },
-            "p2": {
-              "x": 0,
-              "y": 20
-            },
-            "rightArrow": "false",
-            "stroke": "dotted"
-          }
-        },
-        {
           "ID": "725",
           "typeID": "Arrow",
           "zOrder": "19",
@@ -476,36 +415,6 @@
             "p2": {
               "x": 0,
               "y": 0
-            },
-            "rightArrow": "false",
-            "stroke": "dotted"
-          }
-        },
-        {
-          "ID": "728",
-          "typeID": "Arrow",
-          "zOrder": "22",
-          "w": "117",
-          "h": "5",
-          "measuredW": "150",
-          "measuredH": "100",
-          "x": "864",
-          "y": "1864",
-          "properties": {
-            "color": "10027263",
-            "direction": "bottom",
-            "leftArrow": "false",
-            "p0": {
-              "x": 116,
-              "y": 1
-            },
-            "p1": {
-              "x": 0.5309292397129627,
-              "y": -0.01571441547824508
-            },
-            "p2": {
-              "x": 0,
-              "y": 4
             },
             "rightArrow": "false",
             "stroke": "dotted"
@@ -5852,201 +5761,6 @@
           }
         },
         {
-          "ID": "1433",
-          "typeID": "__group__",
-          "zOrder": "112",
-          "measuredW": "238",
-          "measuredH": "55",
-          "w": "238",
-          "h": "55",
-          "x": "996",
-          "y": "1033",
-          "properties": {
-            "controlName": "101-repo-hosting-services:gitlab"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "230",
-                  "h": "49",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "8",
-                  "y": "6",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "measuredW": "52",
-                  "measuredH": "25",
-                  "x": "93",
-                  "y": "18",
-                  "properties": {
-                    "bold": "true",
-                    "color": "3355443",
-                    "size": "17",
-                    "text": "GitLab"
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "4",
-                  "typeID": "Icon",
-                  "zOrder": "4",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "5",
-                  "typeID": "Icon",
-                  "zOrder": "5",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "3700253",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "1434",
-          "typeID": "__group__",
-          "zOrder": "111",
-          "measuredW": "238",
-          "measuredH": "54",
-          "w": "238",
-          "h": "54",
-          "x": "996",
-          "y": "1090",
-          "properties": {
-            "controlName": "102-repo-hosting-services:bitbucket"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "230",
-                  "h": "49",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "8",
-                  "y": "5",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "w": "80",
-                  "measuredW": "75",
-                  "measuredH": "25",
-                  "x": "83",
-                  "y": "17",
-                  "properties": {
-                    "bold": "true",
-                    "color": "3355443",
-                    "size": "17",
-                    "text": "Bitbucket"
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "4",
-                  "typeID": "Icon",
-                  "zOrder": "4",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "5",
-                  "typeID": "Icon",
-                  "zOrder": "5",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "3700253",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
           "ID": "1435",
           "typeID": "__group__",
           "zOrder": "113",
@@ -6357,7 +6071,7 @@
                   "x": "7",
                   "y": "7",
                   "properties": {
-                    "color": "16770457"
+                    "color": "16776960"
                   }
                 },
                 {
@@ -8230,7 +7944,7 @@
                   "x": "7",
                   "y": "8",
                   "properties": {
-                    "color": "16776960"
+                    "color": "16770457"
                   }
                 },
                 {
@@ -8272,7 +7986,7 @@
                   "x": "0",
                   "y": "0",
                   "properties": {
-                    "color": "10027263",
+                    "color": "3700253",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -8405,7 +8119,7 @@
                   "x": "0",
                   "y": "7",
                   "properties": {
-                    "color": "16776960"
+                    "color": "16770457"
                   }
                 },
                 {
@@ -8447,7 +8161,7 @@
                   "x": "161",
                   "y": "0",
                   "properties": {
-                    "color": "10027263",
+                    "color": "3700253",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -8555,294 +8269,6 @@
           }
         },
         {
-          "ID": "1487",
-          "typeID": "__group__",
-          "zOrder": "168",
-          "measuredW": "153",
-          "measuredH": "50",
-          "w": "153",
-          "h": "50",
-          "x": "944",
-          "y": "1833",
-          "properties": {
-            "controlName": "101-pick-a-framework:angular"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "145",
-                  "h": "40",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "8",
-                  "y": "10",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "w": "64",
-                  "measuredW": "59",
-                  "measuredH": "25",
-                  "x": "49",
-                  "y": "18",
-                  "properties": {
-                    "size": "17",
-                    "text": "Angular"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "4",
-                  "typeID": "Icon",
-                  "zOrder": "4",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "3700253",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "1488",
-          "typeID": "__group__",
-          "zOrder": "178",
-          "measuredW": "185",
-          "measuredH": "48",
-          "w": "185",
-          "h": "48",
-          "x": "1155",
-          "y": "1818",
-          "properties": {
-            "controlName": "100-pick-a-framework:angular:rxjs"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "177",
-                  "h": "40",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "0",
-                  "y": "8",
-                  "properties": {
-                    "color": "16776960"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "w": "44",
-                  "measuredW": "40",
-                  "measuredH": "25",
-                  "x": "67",
-                  "y": "16",
-                  "properties": {
-                    "size": "17",
-                    "text": "RxJS"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "161",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "161",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "4",
-                  "typeID": "Icon",
-                  "zOrder": "4",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "161",
-                  "y": "0",
-                  "properties": {
-                    "color": "3700253",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "1489",
-          "typeID": "__group__",
-          "zOrder": "180",
-          "measuredW": "185",
-          "measuredH": "44",
-          "w": "185",
-          "h": "44",
-          "x": "1155",
-          "y": "1868",
-          "properties": {
-            "controlName": "101-pick-a-framework:angular:ngrx"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "177",
-                  "h": "40",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "0",
-                  "y": "4",
-                  "properties": {
-                    "color": "16776960"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "w": "46",
-                  "measuredW": "43",
-                  "measuredH": "25",
-                  "x": "67",
-                  "y": "12",
-                  "properties": {
-                    "size": "17",
-                    "text": "NgRx"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "161",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "161",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "4",
-                  "typeID": "Icon",
-                  "zOrder": "4",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "161",
-                  "y": "0",
-                  "properties": {
-                    "color": "3700253",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
           "ID": "1490",
           "typeID": "__group__",
           "zOrder": "169",
@@ -8869,7 +8295,7 @@
                   "x": "7",
                   "y": "10",
                   "properties": {
-                    "color": "16770457"
+                    "color": "16776960"
                   }
                 },
                 {
@@ -8926,7 +8352,7 @@
                   "x": "0",
                   "y": "0",
                   "properties": {
-                    "color": "3700253",
+                    "color": "10027263",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -11832,7 +11258,7 @@
                   "x": "0",
                   "y": "11",
                   "properties": {
-                    "color": "16776960"
+                    "color": "16770457"
                   }
                 },
                 {
@@ -11874,7 +11300,7 @@
                   "x": "101",
                   "y": "0",
                   "properties": {
-                    "color": "10027263",
+                    "color": "3700253",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -11912,7 +11338,7 @@
                   "x": "0",
                   "y": "8",
                   "properties": {
-                    "color": "16776960"
+                    "color": "16770457"
                   }
                 },
                 {
@@ -11954,7 +11380,7 @@
                   "x": "80",
                   "y": "0",
                   "properties": {
-                    "color": "10027263",
+                    "color": "3700253",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -12234,7 +11660,7 @@
                   "x": "0",
                   "y": "10",
                   "properties": {
-                    "color": "16770457"
+                    "color": "16776960"
                   }
                 },
                 {
@@ -12292,7 +11718,7 @@
                   "x": "100",
                   "y": "0",
                   "properties": {
-                    "color": "3700253",
+                    "color": "10027263",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -12330,7 +11756,7 @@
                   "x": "0",
                   "y": "10",
                   "properties": {
-                    "color": "16770457"
+                    "color": "16776960"
                   }
                 },
                 {
@@ -12388,7 +11814,7 @@
                   "x": "98",
                   "y": "0",
                   "properties": {
-                    "color": "3700253",
+                    "color": "10027263",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -12762,7 +12188,7 @@
                   "x": "0",
                   "y": "9",
                   "properties": {
-                    "color": "16776960"
+                    "color": "16770457"
                   }
                 },
                 {
@@ -12804,7 +12230,7 @@
                   "x": "133",
                   "y": "0",
                   "properties": {
-                    "color": "10027263",
+                    "color": "3700253",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -12842,7 +12268,7 @@
                   "x": "0",
                   "y": "4",
                   "properties": {
-                    "color": "16776960"
+                    "color": "16770457"
                   }
                 },
                 {
@@ -12884,7 +12310,7 @@
                   "x": "132",
                   "y": "0",
                   "properties": {
-                    "color": "10027263",
+                    "color": "3700253",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -12922,7 +12348,7 @@
                   "x": "0",
                   "y": "3",
                   "properties": {
-                    "color": "16770457"
+                    "color": "16776960"
                   }
                 },
                 {
@@ -12980,7 +12406,7 @@
                   "x": "132",
                   "y": "0",
                   "properties": {
-                    "color": "3700253",
+                    "color": "10027263",
                     "icon": {
                       "ID": "check-circle",
                       "size": "small"
@@ -13469,7 +12895,7 @@
                   "x": "9",
                   "y": "10",
                   "properties": {
-                    "color": "16776960"
+                    "color": "16770457"
                   }
                 },
                 {
@@ -13484,38 +12910,6 @@
                   "properties": {
                     "size": "17",
                     "text": "React Native"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "10027263",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
                   }
                 }
               ]
@@ -13597,7 +12991,7 @@
                   "x": "0",
                   "y": "0",
                   "properties": {
-                    "color": "16770457"
+                    "color": "16776960"
                   }
                 },
                 {
